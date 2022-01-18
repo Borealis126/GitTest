@@ -1,7 +1,9 @@
 from qutip import basis, tensor
+import pandas as pd
 
-A = basis(2, 0)
-
-B = tensor(A, A)
-
-C = tensor(A, A, A)
+names = ['Bob', 'Jessica', 'Mary', 'John', 'Mel']
+births = [968, 155, 77, 578, 973]
+BabyDataSet = list(zip(names, births))
+df = pd.DataFrame(data=BabyDataSet, columns=['Names', 'Births'])
+# print(df)
+print(df.sort_values(['Births'], ascending=False))

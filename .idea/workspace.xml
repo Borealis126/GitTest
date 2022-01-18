@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a80e0db-14a8-4770-aae8-616252c8a808" name="Changes" comment="" />
+    <list default="true" id="446aeae7-f8b2-4b51-b2ad-4695ae78b2b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/GitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/runTest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +15,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
-  <component name="ProjectId" id="23n3f1GdJjmg83AJwRFctk1C7Pr" />
+  <component name="ProjectId" id="23tJQzZbvmwb6y8HeJmTpH8zpb3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,14 +36,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="runTest" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="runTest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GitTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\joela\Anaconda3\envs\GitTestEnv\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\jah10\Anaconda3\envs\gitTestEnv\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -53,11 +61,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a80e0db-14a8-4770-aae8-616252c8a808" name="Changes" comment="" />
-      <created>1642356123715</created>
+      <changelist id="446aeae7-f8b2-4b51-b2ad-4695ae78b2b7" name="Default Changelist" comment="" />
+      <created>1642547439587</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642356123715</updated>
+      <updated>1642547439587</updated>
     </task>
     <servers />
   </component>
@@ -71,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
